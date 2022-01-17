@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Heroes-SPA/static/js/main.7b51f4c8.js",
+    "index.html": "/Heroes-SPA/index.html",
+    "main.7b51f4c8.js.map": "/Heroes-SPA/static/js/main.7b51f4c8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7b51f4c8.js"
+  ]
+}

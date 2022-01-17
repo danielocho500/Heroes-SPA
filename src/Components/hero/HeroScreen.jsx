@@ -27,7 +27,7 @@ export const HeroScreen = () => {
         characters
     } = hero
 
-    const imagePath = `/assets/${hero.id}.jpg`
+    const imagePath = `${process.env.PUBLIC_URL}/assets/${id}.jpg`
 
 
     const handleReturn = () => {
